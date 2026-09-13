@@ -1,0 +1,22 @@
+S.No,Sector Name,Project Count,Original Cost (Rs. Crore),Revised Cost (Rs. Crore),Expenditure (Rs. Crore)
+1,Roads & Highways,584,"527,441","537,799","185,964"
+2,Railways,251,"705,753","856,854","688,175"
+3,Aviation & Aviation Infrastructure,25,"21,238","22,452","9,261"
+4,Urban Public Transport,25,"311,947","332,528","203,575"
+5,Shipping,9,"15,124","15,291","9,131"
+6,Inland Waterways,2,"5,546","5,258","4,100"
+7,Oil & Gas,93,"353,463","381,881","191,901"
+8,Transmission & Distribution,63,"152,121","158,085","59,381"
+9,Electricity Generation,37,"280,742","339,525","150,606"
+10,Energy Storage,18,"81,884","120,754","95,874"
+11,Water Resources,39,"93,740","193,594","140,622"
+12,Waste & Water,31,"9,664","9,688","5,739"
+13,Telecommunication,14,"151,923","274,016","77,211"
+14,Education,29,"15,419","14,867","8,254"
+15,Healthcare,22,"16,604","18,613","5,998"
+16,Real Estate,6,"37,591","37,591",811
+17,"Tourism, Hospitality & Wellness",1,573,"1,238",546
+18,Coal,115,"158,368","156,106","48,265"
+19,Steel,19,"18,161","21,400","8,618"
+20,Metals & Mining,7,"10,044","12,481","6,921"
+21,Construction,2,899,899,210

@@ -1,0 +1,11 @@
+# DARPAN Infrastructure Monitoring Platform
+
+DARPAN is an analytics and predictive monitoring platform designed for real-time risk intelligence on infrastructure projects nationwide. 
+
+It provides four core views:
+1. Dashboard (/): Real-time metrics and portfolio summary risk.
+2. Projects (/projects): A priority-ranked project portfolio indicating spatial, physical, and financial disparities.
+3. Warnings (/warnings): Automated alerts triggering on high-probability risk events (cost overruns or implementation lags).
+4. Investigation (/investigation): Data synthesis and signals highlighting anomalies in financial versus physical progress.
+
+The site is hosted on https://darpan-monitor.in and is intended for operational analytical use.
